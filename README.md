@@ -1,6 +1,7 @@
 //How to add local project into git repository
 
 C:\Users\My_Sowriyam\eclipse-workspace\Patterns>git init
+
 Initialized empty Git repository in C:/Users/My_Sowriyam/eclipse-workspace/Patterns/.git/
 
 C:\Users\My_Sowriyam\eclipse-workspace\Patterns>git remote add origin https://github.com/Abdvijay/Java-Pattern-Programs.git
@@ -8,6 +9,7 @@ C:\Users\My_Sowriyam\eclipse-workspace\Patterns>git remote add origin https://gi
 C:\Users\My_Sowriyam\eclipse-workspace\Patterns>git add .
 
 C:\Users\My_Sowriyam\eclipse-workspace\Patterns>git commit -m "Commit all pattern programs"
+
 [master (root-commit) 756e1b7] Commit all pattern programs
  38 files changed, 516 insertions(+)
  create mode 100644 .classpath
